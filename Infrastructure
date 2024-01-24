@@ -1,11 +1,6 @@
-
 Pulse Launch Pad ($PLP):
 
-
 In the vast and rapidly evolving landscape of blockchain projects, aspiring ventures often face the challenge of finding a launchpad that not only aligns with their vision but also offers seamless integration with the native ecosystem. Recognizing this need, Pulse Launch Pad ($PLP) emerged as the solution, catering exclusively to projects within the PulseChain network.
-
-
-
 
 Mission:
 
@@ -34,15 +29,7 @@ Values:
 4. Community Collaboration: We believe in the power of collaboration. Our platform fosters a strong community where ideas are shared, partnerships are formed, and the collective intelligence propels the entire ecosystem forward.
 
 
-
-
-
-
-Token Utility:
-
-
-Listing Fee:
-
+Listing Fee: 
 
 $150 worth of $PLS per listing.
 Why? Prevent spam submissions.
@@ -56,7 +43,6 @@ Fees Distribution:
 
 
 95% of the raised fee is distributed to stakers.
-5% of the raised fee burned as tribute to Pulse.
 Stable Token Supply:
 
 
@@ -72,27 +58,6 @@ Staking Discounts:
 
 Ensuring discounts of up to 5%, dependent on league, for all projects launched via Pulse Launch Pad ($PLP).
 
-
-1. Olympus Stakers League:
-   Ascend to the pinnacle of staking in the Olympus League, where stakers hold astute knowledge akin to the gods. The league values patient commitment, believing in delayed gratification as they harness celestial power and unity. Rewards include a 1% reduction in the initial offering listing price, enhancing the benefits of patient commitment.
-
-
-2. Titan Pioneers League:
-   In the Titan Pioneers League, stakers possess deep insights akin to the ancient Titans. Their journey demands both knowledge and patience, emphasizing the foundational force that precedes significant transformations and pioneering endeavors. Rewards escalate with a 2% reduction in the initial offering listing price, acknowledging the elevated commitment to the platform.
-
-
-3. Aegean Guardians League:
-   The Aegean Guardians League symbolizes vigilant protectors armed with astute knowledge of the ecosystem. Here, stakers value delayed gratification, recognizing that their patient commitment ensures a secure and flourishing environment for blockchain projects. Rewards grow with a 3% reduction in the initial offering listing price, aligning with the heightened responsibilities of guardianship.
-
-
-4. Oracle Innovators League:
-   Within the Oracle Innovators League, stakers hold oracle-like wisdom and prioritize delayed gratification as they guide the platform's future. Their astute knowledge enables them to foresee innovative opportunities, understanding that patience is key to lasting advancements. Rewards expand with a 4% reduction in the initial offering listing price, reflecting their pivotal role in shaping the platform's destiny.
-
-
-5. Sphinx Elite League:
-   Stakers in the Sphinx Elite League epitomises enigmatic wisdom and regal stature, holding the highest level of astute knowledge. Here, delayed gratification is revered as elites balance knowledge and strength, patiently unlocking transformative opportunities in the intricate mysteries of the blockchain realm. Rewards reach their zenith with a 5% reduction in the initial offering listing price, acknowledging the elite's unparalleled commitment and contribution to the platform.
-
-
 Revenue Sharing Model:
 
 
@@ -104,34 +69,4 @@ Implementing a rolling 30-day rewards distribution.
 Each reward will be progressively distributed over the next 30 days.
 This structure encourages continuous staking, preventing potential system gaming where participants stake/unstake to maximize rewards.
 
-
-
-Roadmap:
-
-
-Stage 1:
-
-
-Milestone 1:
-Build social presence and community, establish public-facing websites, initiate documentation, craft a compelling landing page, and execute a TGE Stealth Launch in Q4 2023.
-
-
-Milestone 2:
-Forge the launchpad's development.
-Lead the charge in development, including smart contracts, dApp frontends, and basic testing.
-
-
-Milestone 3:
-Thorough testing.
-Conduct comprehensive testing on a live network, integrate additional automated tests, and rectify any identified bugs.
-
-
-Milestone 4:
-Launch the first project from the launchpad.
-Initiate the debut project on the launchpad, engaging with the community to ensure a successful launch.
-
-
-Milestone 5:
-DAO implementation for the launchpad.
-Implement a decentralised autonomous organisation (DAO) for the launchpad, enhancing governance and community involvement.
 
